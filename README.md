@@ -1,4 +1,4 @@
-# E-COMMERECE-DBMS
+# E-Commerce RDBMS
 
 A RDBMS application which replicates an E-Commerce shop which was implemented in UNIX.
 
