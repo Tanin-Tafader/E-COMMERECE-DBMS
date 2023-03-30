@@ -4,8 +4,5 @@ A RDBMS application which replicates an E-Commerce system that provides goods an
 
 
 # How It looks 
-
-
-
-UNIX SHELL: 
+### UNIX SHELL
 ![image](https://user-images.githubusercontent.com/96170222/228471320-24e758d9-eb6d-4a7f-8deb-e485e22c95ee.png)
