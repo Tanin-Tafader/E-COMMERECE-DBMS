@@ -1,6 +1,6 @@
 # E - COMMERECE RDBMS
 
-A RDBMS application which replicates an E-Commerce shop which was implemented in UNIX.
+A RDBMS application which replicates an E-Commerce system that provides goods and services for various transactions on an online platform. This system will have different functionalites; which are designed and implemented using ER diagrams, schema design and advanced queries and views. This application was also implemented in a UNIX shell.
 
 
 #UNIX Implementation
