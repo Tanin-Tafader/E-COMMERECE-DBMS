@@ -4,7 +4,7 @@ A RDBMS application which replicates an E-Commerce system that provides goods an
 
 
 # How It looks 
-JAVA IMPLEMENTATION:
+
 
 
 UNIX SHELL: 
