@@ -17,6 +17,11 @@ A RDBMS application which replicates an E-Commerce system that provides goods an
 ### views_tables.sh
 ![image](https://user-images.githubusercontent.com/96170222/229963009-96ca633e-4552-4c11-832b-dfa2d079a44c.png)
 ### drop_views_tables.sh
+![image](https://user-images.githubusercontent.com/96170222/229963076-1ba2759f-349a-4406-a2ce-8ee2a3029252.png)
+
+
+
+
 
 
 
