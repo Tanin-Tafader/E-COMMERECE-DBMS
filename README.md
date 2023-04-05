@@ -7,6 +7,7 @@ A RDBMS application which replicates an E-Commerce system that provides goods an
 ### menu.sh
 ![image](https://user-images.githubusercontent.com/96170222/228471320-24e758d9-eb6d-4a7f-8deb-e485e22c95ee.png)
 ### create_tables.sh
+![image](https://user-images.githubusercontent.com/96170222/229962545-89a9ffb8-8c8c-4b44-8e76-724fd5c395cd.png)
 ### populate_tables.sh
 ### drop_tables.sh
 ### queries.sh
