@@ -3,7 +3,7 @@
 A RDBMS application which replicates an E-Commerce system that provides goods and services for various transactions on an online platform. This system will have different functionalites; which are designed and implemented using ER diagrams, schema design and advanced queries and views. This application was also implemented in a UNIX shell.
 
 
-# UNIX SHELL 
+# UNIX Shell Implementation 
 ### menu.sh
 ![image](https://user-images.githubusercontent.com/96170222/228471320-24e758d9-eb6d-4a7f-8deb-e485e22c95ee.png)
 ### create_tables.sh
@@ -13,7 +13,9 @@ A RDBMS application which replicates an E-Commerce system that provides goods an
 ### drop_tables.sh
 ![image](https://user-images.githubusercontent.com/96170222/229962709-a44220fc-3f36-4e03-8a21-f6ee9125f0ef.png)
 ### queries.sh
+![image](https://user-images.githubusercontent.com/96170222/229962801-d7a1bf65-5a36-40a9-8a08-65952e8e6bf7.png)
 ### views_tables.sh
+### drop_views_tables.sh
 
 
 
